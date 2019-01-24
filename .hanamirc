@@ -1,0 +1,3 @@
+project=iroha
+test=rspec
+template=erb
